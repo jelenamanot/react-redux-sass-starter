@@ -1,4 +1,4 @@
-# React-Redux Simple Starter
+# React - Redux - Sass Simple Starter
 
 Simple React & Redux starter, which also has Sass support.
 
